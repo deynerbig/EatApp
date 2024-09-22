@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green_500"
+    tools:context=".Historial_Detallado">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="454dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvRecipeName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Ingredientes:"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvIngredients"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <!-- Botón para modificar la receta -->
+
+        <!-- Botón para eliminar la receta -->
+
+        <Button
+            android:id="@+id/btnModify"
+            android:layout_width="373dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/black"
+            android:text="Modificar" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="373dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:backgroundTint="@color/black"
+            android:text="Eliminar" />
+
+        <Button
+            android:id="@+id/btnShare"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:text="Compartir" />
+
+    </LinearLayout>
+
+</FrameLayout>

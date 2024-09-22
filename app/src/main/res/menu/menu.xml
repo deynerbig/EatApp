@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op1"
+        android:title="@string/registro_de_persona"
+        android:onClick="login5" />
+    <item
+        android:id="@+id/op2"
+        android:title="@string/diasdesemana"
+        android:onClick="login6" />
+</menu>

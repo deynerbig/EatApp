@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">EatsApp</string>
+
+    <string name="inicio_sesion">Inicio Sesion</string>
+    <string name="email_login">Email</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="boton_ingresar">Ingresar</string>
+
+    <string name="registro">registro</string>
+    <string name="historialfav">historial de favoritos</string>
+    <string name="historial">historial</string>
+    <string name="historial_titulo">Historial</string>
+    <string name="registrar_receta_titulo">Registro de Receta</string>
+    <string name="publicar">publicar receta</string>
+    <string name="nombrereceta">nombre de receta</string>
+    <string name="nregistro">Registro de Receta</string>
+    <string name="nopublico">Publicar Receta</string>
+    <string name="nomhistorial">Historial</string>
+    <string name="nombhistorial_fav">Historial de favoritos</string>
+    <string name="registroreceta">Registro de Receta</string>
+    <string name="barra_de_busqueda">ingrese algo</string>
+
+    <string name="registro_de_persona">registro</string>
+    <string name="diasdesemana">control de calorias</string>
+    <string name="eatApp">EatApp</string>
+    <string name="logodeapp">logo</string>
+    <string name="siguiente">siguiente</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contrasenia2">Contraseña</string>
+    <string name="reingresocon">Reingrese Contraseña</string>
+    <string name="titulo">Registro de Usuario</string>
+    <string name="boton_confirmar">Confirmar</string>
+
+    <string name="titulo2">Registro de Estado Fisico</string>
+    <string name="nombre_usuario">Ingrese su nombre</string>
+    <string name="email">Ingrese su email</string>
+    <string name="edad">Ingrese su edad</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="peso">Ingrese su peso</string>
+    <string name="altura">Ingrese su altura </string>
+    <string name="sexo">Ingrese su Sexo</string>
+
+    <string name="openn">Open Navigation Drawer</string>
+    <string name="closee">close Navigation Drawer</string>
+    <string name="registrate">Crear Cuenta</string>
+    <string name="genero">Genero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipeid">recipeid</string>
+    <string name="item_commet"></string>
+</resources>
